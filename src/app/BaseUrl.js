@@ -1,2 +1,2 @@
 
-export const baseurl="https://next13-amber.vercel.app";
+export const baseurl="https://nextblogpage.vercel.app";
