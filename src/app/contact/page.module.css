@@ -51,3 +51,8 @@
   font-size: 20px;
   font-weight: bold;
 }
+.send{
+  width:100%;
+  display:flex;
+  justify-content:center;
+}
